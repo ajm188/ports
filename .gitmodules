@@ -1,0 +1,3 @@
+[submodule "haskell/haskell-stack"]
+	path = haskell/haskell-stack
+	url = gh:ajm188/haskell-stack-port
