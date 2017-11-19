@@ -1,6 +1,6 @@
 [submodule "haskell/haskell-stack"]
 	path = haskell/haskell-stack
-	url = gh:ajm188/haskell-stack-port
+	url = git@github.com:ajm188/haskell-stack-port
 [submodule "devel/cargo"]
 	path = devel/cargo
 	url = git@github.com:ajm188/cargo-port
